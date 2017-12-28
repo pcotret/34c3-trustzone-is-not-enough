@@ -19,3 +19,8 @@ http://www.hardblare.cominlabs.ueb.eu/
 ## Codes 
 We will try to publish codes of [@abdulparis](https://github.com/abdulparis) thesis when completed.
 In the meantime, please have a look at https://www.blare-ids.org/
+### HW-assisted tracing
+https://www.kernel.org/doc/Documentation/trace/coresight.txt
+## Linux kernel commits
+https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/commit/drivers/hwtracing/coresight?id=a3e4df85b0dd77f33e62142158f7d11f5aa836b5
+https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/commit/drivers/hwtracing/coresight?id=a3e4df85b0dd77f33e62142158f7d11f5aa836b5
