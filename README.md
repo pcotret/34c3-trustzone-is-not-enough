@@ -9,11 +9,11 @@ Talk with [@abdulparis](https://github.com/abdulparis) at the 2017 Chaos Communi
 Todo after my talk.
 
 ## Existing publications
-- FPL 2017. [https://hal.archives-ouvertes.fr/hal-01558475/document](ARMHEx: a framework for efficient DIFT in real-world SoCs)  
-- FPL 2017. [https://hal.archives-ouvertes.fr/hal-01558473/document](ARMHEx: A hardware extension for DIFT on ARM-based SoCs)
-- RESSI 2017. [https://hal.archives-ouvertes.fr/hal-01558155/document](ARMHEx: embedded security through hardware-enhanced information flow tracking)
+- FPL 2017. [https://hal.archives-ouvertes.fr/hal-01558475/document](ARMHEx, a framework for efficient DIFT in real-world SoCs)  
+- FPL 2017. [https://hal.archives-ouvertes.fr/hal-01558473/document](ARMHEx, A hardware extension for DIFT on ARM-based SoCs)
+- RESSI 2017. [https://hal.archives-ouvertes.fr/hal-01558155/document](ARMHEx, embedded security through hardware-enhanced information flow tracking)
 - FPL 2016. [https://hal.archives-ouvertes.fr/hal-01337579/document](Towards a hardware-assisted information flow tracking ecosystem for ARM processors)
-- CHES 2015. [https://pascalcotret.files.wordpress.com/2016/01/2015ches_poster.pdf](HardBlare: an efficient hardware-assisted DIFC for non-modified embedded processors)
+- CHES 2015. [https://pascalcotret.files.wordpress.com/2016/01/2015ches_poster.pdf](HardBlare, an efficient hardware-assisted DIFC for non-modified embedded processors)
 
 ## Website of the project
 http://www.hardblare.cominlabs.ueb.eu/
