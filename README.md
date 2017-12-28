@@ -3,8 +3,6 @@ Talk with [@abdulparis](https://github.com/abdulparis) at the 2017 Chaos Communi
 
 ![https://user-images.githubusercontent.com/404135/33809657-c22dcc72-ddfa-11e7-9207-62d7071bdd6d.png](https://user-images.githubusercontent.com/404135/33809657-c22dcc72-ddfa-11e7-9207-62d7071bdd6d.png)
 
-![https://user-images.githubusercontent.com/404135/33809656-c2112860-ddfa-11e7-9936-72fa7e01eb3f.png](https://user-images.githubusercontent.com/404135/33809656-c2112860-ddfa-11e7-9936-72fa7e01eb3f.png)
-
 ## Slides
 Todo after my talk.
 
