@@ -3,6 +3,8 @@ Talk with [@abdulparis](https://github.com/abdulparis) at the 2017 Chaos Communi
 
 ![https://user-images.githubusercontent.com/404135/33809657-c22dcc72-ddfa-11e7-9207-62d7071bdd6d.png](https://user-images.githubusercontent.com/404135/33809657-c22dcc72-ddfa-11e7-9207-62d7071bdd6d.png)
 
+Contact: pascal.cotret@gmail.com
+
 ## Slides
 FYI, presentation based on the Framasoft Beamer theme: https://git.framasoft.org/Framatophe/BredeleDiapo/tree/master
 Todo after my talk:
