@@ -6,9 +6,13 @@ Talk with [@abdulparis](https://github.com/abdulparis) at the 2017 Chaos Communi
 Contact: pascal.cotret@gmail.com
 
 ## Slides
-FYI, presentation based on the Framasoft Beamer theme: https://git.framasoft.org/Framatophe/BredeleDiapo/tree/master
+FYI, presentation based on the Framasoft Beamer theme:
 
-Slides are here (PDF version): https://github.com/pcotret/34c3-trustzone-is-not-enough/blob/master/slides/34c3-slides.pdf
+https://git.framasoft.org/Framatophe/BredeleDiapo/tree/master
+
+Slides are here (PDF version):
+
+https://github.com/pcotret/34c3-trustzone-is-not-enough/blob/master/slides/34c3-slides.pdf
 
 Todo after my talk:
 - Remove comments.
@@ -34,3 +38,4 @@ https://www.kernel.org/doc/Documentation/trace/coresight.txt
 https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/commit/?id=a39f841a5b5b2215f99ed6dd6f75b8e06807a810
 
 https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/commit/drivers/hwtracing/coresight?id=a3e4df85b0dd77f33e62142158f7d11f5aa836b5
+
