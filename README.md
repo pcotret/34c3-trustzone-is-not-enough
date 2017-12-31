@@ -7,6 +7,7 @@ Contact: pascal.cotret@gmail.com
 
 ## Slides
 FYI, presentation based on the Framasoft Beamer theme: https://git.framasoft.org/Framatophe/BredeleDiapo/tree/master
+
 Todo after my talk:
 - Remove comments.
 - Clean "unwanted packages".
