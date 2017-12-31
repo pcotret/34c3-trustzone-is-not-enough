@@ -8,6 +8,8 @@ Contact: pascal.cotret@gmail.com
 ## Slides
 FYI, presentation based on the Framasoft Beamer theme: https://git.framasoft.org/Framatophe/BredeleDiapo/tree/master
 
+Slides are here (PDF version): https://github.com/pcotret/34c3-trustzone-is-not-enough/blob/master/slides/34c3-slides.pdf
+
 Todo after my talk:
 - Remove comments.
 - Clean "unwanted packages".
