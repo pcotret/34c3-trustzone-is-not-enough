@@ -3,16 +3,14 @@ Talk with [@abdulparis](https://github.com/abdulparis) at the 2017 Chaos Communi
 
 ![https://user-images.githubusercontent.com/404135/33809657-c22dcc72-ddfa-11e7-9207-62d7071bdd6d.png](https://user-images.githubusercontent.com/404135/33809657-c22dcc72-ddfa-11e7-9207-62d7071bdd6d.png)
 
-Contact: pascal.cotret@gmail.com
+Contact: [mailto:pascal.cotret@gmail.com](pascal.cotret@gmail.com)
 
 ## Slides
 FYI, presentation based on the Framasoft Beamer theme:
+[https://git.framasoft.org/Framatophe/BredeleDiapo/tree/master](https://git.framasoft.org/Framatophe/BredeleDiapo/tree/master)
 
-https://git.framasoft.org/Framatophe/BredeleDiapo/tree/master
-
-Slides are here (PDF version):
-
-https://github.com/pcotret/34c3-trustzone-is-not-enough/blob/master/slides/34c3-slides.pdf
+Slides are here :
+[https://speakerdeck.com/pcotret/trustzone-is-not-enough](https://speakerdeck.com/pcotret/trustzone-is-not-enough)
 
 Todo after my talk:
 - Remove comments.
